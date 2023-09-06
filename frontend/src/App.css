@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@500&display=swap');
+.container {
+  margin-top: 1%;
+}
+.nav-link{
+  font-weight: 600;
+  font-size: 14px;
+  color: #2d3b70;
+}
+
+.navbar-brand{
+  color: #2d3b70;
+  font-weight: 600;
+}
